@@ -9,4 +9,9 @@ To improve customer experience. According to the census, 81% of the customers ge
 # Customer segmentation models
 Customer segmentation models can be categorized according to demography, according to psychograph, according to the goal of the customer and according to purchase a pattern.
 
-# applied Machine Learning
+# Applied Machine Learning:
+
+Merging the original dataset with number of clusters
+Finding the best cluster based on Annual Income
+Visualizing number of clusters
+
