@@ -12,8 +12,6 @@ Customer segmentation models can be categorized according to demography, accordi
 # Applied Machine Learning:
 
 * Merging the original dataset with number of clusters,
-
 * Finding the best cluster based on Annual Income
-
-*Visualizing number of clusters
+* Visualizing number of clusters
 
